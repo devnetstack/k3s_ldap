@@ -1,0 +1,7 @@
+### Vagrant ###
+.vagrant/*
+.vagrant/
+*.log
+### k3s API file -- created at run time ###
+k3s.yaml
+
