@@ -35,3 +35,4 @@ ldapadd -H ldap://192.168.0.254 \
 
 ldapadd -H ldap://192.168.0.254 \
   -x -D cn=admin,dc=devnetstack,dc=com -w adminpassword -f mrprod.ldif
+  
